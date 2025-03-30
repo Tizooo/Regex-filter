@@ -9,3 +9,7 @@ hure
 
 # bastard
 bastar(d|t)
+
+# nigger
+# BYPASSES: nig nga nger ngar nigger2 ni99er
+\b[n]+[i1oe3]+[g]+([l]+[e3]+[t]+|[e3a]*[r]+|[a]+)+[s]*\b
