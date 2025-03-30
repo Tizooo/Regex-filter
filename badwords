@@ -1,6 +1,11 @@
-badword # badword
-hs # hs
-bastar(d|t) # bastard
+# badword
+badword
 
-// f
-f
+# hs
+hs
+
+# hure
+hure
+
+# bastard
+bastar(d|t)
