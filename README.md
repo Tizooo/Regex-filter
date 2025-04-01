@@ -6,7 +6,7 @@ layout should look like this, "Do Not Block:" and "BYPASSES" is only needed if t
 screw
 ```
 
-"Do Not Block:" is used to note down commonly used words which may trigger false positives.
+"Do Not Block:" is used to note down commonly used words which may trigger false positives./n
 "BYPASSES:" should list variations or circumventions that users might use to bypass the filter, which we can include for updates or improvements later.
 
 if we have similar badwords like "arse", "arsehat", "arsehead" we try to only block the similar part.
