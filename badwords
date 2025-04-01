@@ -1,14 +1,14 @@
 # badword
 badword
 
-# hure/hurensohn
+# hure / hurensohn
 hur(e|3)
 hs
 
 # bastard
 bastar(d|t)
 
-# nigger
+# nigger / nigga
 # BYPASSES: nig nga nger ngar nigger2 ni99er nggr
 \b[n]+[i1oe3]+[g]+([l]+[e3]+[t]+|[e3a]*[r]+|[a]+)+[s]*\b
 
