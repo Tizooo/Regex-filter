@@ -25,13 +25,17 @@ halts maul
 dein maul
 aufs maul
 ^maul\b
+hzm
 hdm
 hmdm
 
-# arsch / arschloch  
-a+r+s+c+h+ 
+# arsch / arschloch
+a+r+s+c+h+
 
-# schwanz 
+# wichser / wichsen
+\b[w]+[i]+([c]+[h]+[s]+[e]+|[x]+[s]*[e]+)+[rn]*\b
+
+# schwanz
 # Do Not Block: der schwanz eines elefanten, schwanzflosse
 ^schw+a+n+z+\b
 
@@ -52,3 +56,6 @@ m+i+s+s+g+e+b+u+r+t+
 
 # Spast / Spastiker
 s+p+a+s+t+
+
+# kys
+kys
