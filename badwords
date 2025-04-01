@@ -3,7 +3,7 @@ badword
 
 # hure / hurensohn
 h+u+r+[e3]+
-hs
+\bhs\b
 
 # bastard
 b+a+s+t+a+r+d+
