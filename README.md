@@ -3,7 +3,7 @@ layout should look like this, "Do Not Block:" and "BYPASSES" is only needed if t
 # Screw
 # Do Not Block: I really screwed up that presentation, Make sure you screw on the cap tightly.
 # BYPASSES: scr3w, 5crew
-screw
+screw (you|off)
 ```
 
 "Do Not Block:"should be used to note down commonly used words or phrases that might trigger false positives.<br>
