@@ -13,8 +13,7 @@ bastar(d|t)
 \b[n]+[i1oe3]+[g]+([l]+[e3]+[t]+|[e3a]*[r]+|[a]+)+[s]*\b
 
 # fuck / fick
-f(u+|i)ck
-fck
+f+(u+|i+)*c+k+
 
 # fresse
 fresse
