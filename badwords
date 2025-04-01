@@ -2,7 +2,7 @@
 badword
 
 # hure / hurensohn
-hur(e|3)
+h+u+r+[e3]+
 hs
 
 # bastard
@@ -27,3 +27,27 @@ aufs maul
 ^maul\b
 hdm
 hmdm
+
+# arsch / arschloch  
+a+r+s+c+h+ 
+
+# schwanz 
+# Do Not Block: der schwanz eines elefanten, schwanzflosse
+^schw+a+n+z+\b
+
+# vergewaltigen
+
+# hitler
+h[i1!]tl[e3]r
+
+# nutte
+n+u+t+t+e+
+
+# bitch
+b+[i1!]+t+c+h+
+
+# Missgeburt
+m+i+s+s+g+e+b+u+r+t+
+
+# Spast / Spastiker
+s+p+a+s+t+
