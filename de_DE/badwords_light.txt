@@ -10,9 +10,6 @@ trottel
 # Dumm / Dummkopf
 dumm
 
-# Spinner
-spinner
-
 # Schwachkopf
 schwachkopf
 
