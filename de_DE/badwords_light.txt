@@ -1,1 +1,38 @@
-badwords
+# Idiot
+idiot
+
+# Depp
+depp
+
+# Trottel
+trottel
+
+# Dumm / Dummkopf
+dumm
+
+# Spinner
+spinner
+
+# Schwachkopf
+schwachkopf
+
+# Lackaffe
+lackaffe
+
+# Pappnase
+pappnase
+
+# Dumpfbacke
+dumpfbacke
+
+# Heulsuse
+heulsuse
+
+# Jammerlappen
+jammerlappen
+
+# Witzfigur
+witzfigur
+
+# Dödel
+dödel
