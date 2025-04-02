@@ -12,7 +12,7 @@ b+a+s+t+a+r+d+
 # BYPASSES: nig nga nger ngar nigger2 ni99er nggr
 \b[n]+[i1oe3]+[g]+([l]+[e3]+[t]+|[e3a]*[r]+|[a]+)+[s]*\b
 
-# fuck / fick
+# fuck / fick / fickt / ficken
 f+(u+|i+)*c+k+
 
 # fresse
