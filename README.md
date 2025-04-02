@@ -16,4 +16,4 @@ if we have similar badwords like "arse", "arsehat", "arsehead" we try to only bl
 arse
 ```
 
-Since we can't block every similar character that might be used interchangeably such as replacing "i" with "l", "!", "|", "İ", "ı", "𝑖", "𝕚", or "ỉ" to bypass filters we will not attempt to block them individually. Instead, you should handle these cases yourself by either normalizing text (replacing such characters yourself) or limiting the number of special characters that can be used.
+Since we can't block every similar character that might be used interchangeably such as replacing "i" with "l", "!", "|", "İ", "ı", "𝑖", "𝕚", or "ỉ" to bypass filters we will not attempt to block them individually. Instead, you should handle these cases by either normalizing text (replacing such characters yourself) or limiting the number of special characters that can be used.
