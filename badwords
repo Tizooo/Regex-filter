@@ -17,7 +17,7 @@ f+(u+|i+)*c+k+
 
 # fresse
 fresse
-hdf
+\bhdf\b
 
 # maul
 # Do Not Block: der hat wolle im maul, hdmi kabel
@@ -25,9 +25,9 @@ halts maul
 dein maul
 aufs maul
 ^maul\b
-hzm
+\bhzm\b
 \bhdm\b
-hmdm
+\bhmdm\b
 
 # arsch / arschloch
 # Do Not Block: verarschen, wahrscheinlich, warscheinlich
@@ -65,4 +65,4 @@ s+p+a+s+t+
 f+[o0]+t+z+[e3]+
 
 # kys
-kys
+\bkys\b
