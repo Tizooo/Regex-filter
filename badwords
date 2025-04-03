@@ -2,8 +2,9 @@
 badword
 
 # hure / hurensohn
+# Do Not Block: Frühs trink ich immer nen Kaffee
 h+u+r+[e3]+
-\bhs\b
+[^ü]\bhs\b
 
 # bastard
 b+a+s+t+a+r+d+
