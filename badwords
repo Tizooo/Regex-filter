@@ -23,9 +23,7 @@ fresse
 
 # maul
 # Do Not Block: der hat wolle im maul, hdmi kabel
-halts maul
-dein maul
-aufs maul
+(halts|dein|aufs) maul
 ^maul\b
 \bhzm\b
 \bhdm\b
