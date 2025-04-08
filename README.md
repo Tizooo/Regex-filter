@@ -7,7 +7,7 @@ screw (you|off)
 ```
 
 "Do Not Block:" should be used to note down commonly used words or phrases that might trigger false positives.<br>
-"BYPASSES:" should list variations that might get used to try and bypass the filter.
+"BYPASSES:" lists variations often used to bypass the filter.
 
 if we have similar badwords like "arse", "arsehat", "arsehead" we try to only block the similar part.
 ```
