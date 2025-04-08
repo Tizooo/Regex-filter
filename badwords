@@ -11,7 +11,8 @@ b+a+s+t+a+r+d+
 
 # nigger / nigga
 # BYPASSES: nig, nga, nger, ngar, nigger2, ni99er, nggr, ni g a. ni ga, nicker, ni gg er
-\b[n]+[i1oe3]+[g]+([l]+[e3]+[t]+|[e3a]*[r]+|[a]+)+[s]*\b
+\b([n](\W|_)*)+([ioe](\W|_)*)+((g|ck)(\W|_)*)+(([l](\W|_)*)+([e](\W|_)*)+([t](\W|_)*)+|([ea](\W|_)*)*([r](\W|_)*)+|([a](\W|_)*)+)+[sz]*\b
+\b(nig|nga|nger|ngar|nggr)\b
 
 # fuck / fick / fickt / ficken
 f+(u+|i+)*c+k+
