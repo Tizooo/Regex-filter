@@ -9,7 +9,7 @@ h+u+r+[e3]+
 # bastard
 b+a+s+t+a+r+d+
 
-# nigger / nigga
+# nigger / nigga / niglet
 # BYPASSES: nig, nga, nger, ngar, nigger2, ni99er, nggr, ni g a. ni ga, nicker, ni gg er
 \b([n](\W|_)*)+([ioe](\W|_)*)+((g|ck)(\W|_)*)+(([l](\W|_)*)+([e](\W|_)*)+([t](\W|_)*)+|([ea](\W|_)*)*([r](\W|_)*)+|([a](\W|_)*)+)+[sz]*\b
 \b(nig|nga|nger|ngar|nggr)\b
