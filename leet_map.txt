@@ -1,3 +1,5 @@
+# sort the variants by length in descending order. This ensures that longer sequences (e.g., "/-\") are replaced before shorter ones (e.g., "/"), which improves accuracy.
+
 a = 4, @, /-\, /\, ^, Д
 b = ß, |3, I3, 13, !3, )3
 c = (, <, [, ¢, ©
