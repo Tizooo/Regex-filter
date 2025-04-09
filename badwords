@@ -3,7 +3,7 @@ badword
 
 # hure / hurensohn
 # Do Not Block: Frühs trink ich immer nen Kaffee
-h+u+r+[e3]+
+h+u+r+e+
 [^ü]\bhs\b
 
 # bastard
@@ -45,16 +45,16 @@ fresse
 v+e+r+g+e+w+a+l+t+
 
 # hitler
-h[i1!]tl[e3]r
+hitler
 
 # nutte
 n+u+t+t+e+
 
 # penis
-p+[e3]+n+[i1!]+s+
+p+e+n+i+s+
 
 # bitch
-b+[i1!]+t+c+h+
+b+i+t+c+h+
 
 # Missgeburt
 m+i+s+s+g+e+b+u+r+t+
@@ -63,7 +63,7 @@ m+i+s+s+g+e+b+u+r+t+
 s+p+a+s+t+
 
 # fotze
-f+[o0]+t+z+[e3]+
+f+o+t+z+e+
 
 # kys
 \bkys\b
