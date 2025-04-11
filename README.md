@@ -20,6 +20,8 @@ Since we can't block every similar character that might be used interchangeably 
 
 
 --------------------- SOON NEW DESCRIPTION<br>
+TODO: (?:b|8|\|3)+(1|!|i)+ instead of [!1il] to support stuff like "|3".<br>
+
 layout should look like this, "Do Not Block:" and "BYPASSES" is only needed if there is actually a value for them.
 ```
 # Screw
