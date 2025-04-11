@@ -38,9 +38,9 @@ if we have similar badwords like "arse", "arsehat", "arsehead" we try to only bl
 arse
 ```
 
-Since we can't block every similar character that might be used interchangeably such as replacing "i" with "l", "!", "|", "İ", "ı", "𝑖", "𝕚", or "ỉ" (leetspeak) to bypass filters we will not attempt to block them individually in each regex. Instead, we use a leetMap which we later use to populate regexes.
-for example:
-we got the regex "sh[i]t" and our leetMap looks like this:
-i = 1, !, l, |
-h = |-|
+Since we can't block every similar character that might be used interchangeably such as replacing "i" with "l", "!", "|", "İ", "ı", "𝑖", "𝕚", or "ỉ" (leetspeak) to bypass filters we will not attempt to block them individually in each regex. Instead, we use a leetMap which we later use to populate regexes.<br>
+for example:<br>
+we got the regex "sh[i]t" and our leetMap looks like this:<br>
+i = 1, !, l, |<br>
+h = |-|<br>
 now since [i] is in brackets we can tell our program to fill them with the corresponding values of each letter. if a value consists of multipele letters (e.g h = |-|) we have to normalize it manually so |-|ello becomes hello and then gets checked using regex.
