@@ -19,7 +19,7 @@ arse
 Since we can't block every similar character that might be used interchangeably such as replacing "i" with "l", "!", "|", "İ", "ı", "𝑖", "𝕚", or "ỉ" to bypass filters we will not attempt to block them individually. Instead, you should handle these cases by either normalizing text (replacing such characters yourself) or limiting the number of special characters that can be used.
 
 
---------------------- SOON NEW DESCRIPTION
+--------------------- SOON NEW DESCRIPTION<br>
 layout should look like this, "Do Not Block:" and "BYPASSES" is only needed if there is actually a value for them.
 ```
 # Screw
