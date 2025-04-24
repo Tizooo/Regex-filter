@@ -3,3 +3,7 @@ nig+(er|a|let)
 
 # fuck / fick / fickt / ficken / fck / f*ck / fuack
 f(u|i|a|\*)*ck
+
+# maul
+# Do Not Block: der hat wolle im maul, hdmi kabel
+^(halts|dein|aufs)?\s*maul\b
