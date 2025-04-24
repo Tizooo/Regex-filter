@@ -1,6 +1,9 @@
 # Regex should only be used to remove false flags from legit words
 # We try not to use any "[]" since we later expand the regexes with them (e.g leetspeak)
 
+# kill test | Skill Overkill Killjoy 
+kill
+
 # badword
 badword
 
