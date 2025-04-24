@@ -1,2 +1,5 @@
 # nigger / nigga / niglet
-n[il]+g+(er|a|[li]+et)
+nig+(er|a|let)
+
+# fuck / fick / fickt / ficken / fck / f*ck / fuack
+f(u|i|a|\*)*ck
