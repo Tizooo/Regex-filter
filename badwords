@@ -6,19 +6,18 @@ badword
 
 # hure / hurensohn
 # Do Not Block: Frühs trink ich immer nen Kaffee
-h+u+r+e+
+hure
 [^ü]\bhs\b
 
 # bastard
-b+a+s+t+a+r+d+
+bastard
 
 # nigger / nigga / niglet
 # BYPASSES: nig, nga, nger, ngar, nigger2, ni99er, nggr, ni g a. ni ga, nicker, ni gg er
-\b([n](\W|_)*)+([ioe](\W|_)*)+((g|ck)(\W|_)*)+(([l](\W|_)*)+([e](\W|_)*)+([t](\W|_)*)+|([ea](\W|_)*)*([r](\W|_)*)+|([a](\W|_)*)+)+[sz]*\b
-[^ä]\b(nig|nga|nger|ngar|nggr)\b
+nig+(er|a|let)
 
 # fuck / fick / fickt / ficken
-f+(u+|i+)*c+k+
+f(u|i|a|\*)*ck
 
 # fresse
 fresse
@@ -35,38 +34,38 @@ fresse
 
 # arsch / arschloch
 # Do Not Block: verarschen, wahrscheinlich, warscheinlich
-\ba+r+s+c+h+
+\barsch
 
 # wichser / wichsen
-\b[w]+[i]+([c]+[h]+[s]+[e]+|[x]+[s]*[e]+)+[rn]*\b
+wi(chse|xs*e)+
 
 # schwanz
 # Do Not Block: der schwanz eines elefanten, schwanzflosse
-^schw+a+n+z+\b
+^schwanz\b
 
 # vergewaltigen / vergewaltiger
-v+e+r+g+e+w+a+l+t+
+vergewalt
 
 # hitler
 hitler
 
 # nutte
-n+u+t+t+e+
+nutte
 
 # penis
-p+e+n+i+s+
+penis
 
 # bitch
-b+i+t+c+h+
+bitch
 
 # Missgeburt
-m+i+s+s+g+e+b+u+r+t+
+missgeburt
 
 # Spast / Spastiker
-s+p+a+s+t+
+spast
 
 # fotze
-f+o+t+z+e+
+fotze
 
 # kys
 \bkys\b
