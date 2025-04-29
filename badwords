@@ -17,7 +17,8 @@ bastard
 nig+(er|a|let)
 
 # fuck / fick / fickt / ficken
-f(u|i|a|\*)*ck
+# Do Not Block: Fackeln
+\bf(u|i|a|\*)*ck(ing|er|en|ed)*\b
 
 # fresse
 fresse
