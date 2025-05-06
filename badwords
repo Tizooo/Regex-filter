@@ -15,7 +15,7 @@ bastard
 # nigger / nigga / niglet
 # Do Not Block: ihn gerade
 # BYPASSES: nig, nga, nger, ngar, nigger2, ni99er, nggr, ni g a. ni ga, nicker, ni gg er
-nig+(er|a|let)
+\bnig+(er|a|let)
 
 # fuck / fick / fickt / ficken
 # Do Not Block: Fackeln
